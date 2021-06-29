@@ -5,7 +5,7 @@
 ## 安装
 
 ```
-composer require hyperf/rpc-multiplex-incubator
+composer require hyperf/rpc-multiplex
 ```
 
 ## Server 配置
